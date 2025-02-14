@@ -85,6 +85,4 @@ Në një dyqan, nëse shumë klientë që blejnë qumësht gjithashtu blejnë bu
 - Llogaritja e besueshmërisë:
   - \\( \text{Confidence}(\text{qumësht} \rightarrow \text{bukë}) = \frac{\text{Support}(\text{qumësht} \cup \text{bukë})}{\text{Support}(\text{qumësht})} \\)
 
----
 
-Kjo është një përmbledhje e algoritmit Apriori që mund të përfshihet në README për projektin tuaj. Sigurohuni të zëvendësoni `username` dhe `repo-name` me emrin tuaj të përdoruesit dhe emrin e repository-t në GitHub.
